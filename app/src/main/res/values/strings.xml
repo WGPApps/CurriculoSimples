@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">Easy Curriculum - Create your Resume</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_home_screen">Easy Curriculum - Create your Resume</string>
+    <string name="title_activity_visualizar_curriculo">View Curriculum</string>
+    <string name="title_activity_comprar_versao_pro">PRO Version</string>
+    <string name="title_activity_sobre">About</string>
+    <string name="title_activity_aplicativos">More Apps</string>
+
+    <string-array name="steps_array">
+        <item>Personal Data</item>
+        <item>Objective</item>
+        <item>My Skills</item>
+        <item>Professional Experience</item>
+        <item>Education</item>
+        <item>Other Info</item>
+    </string-array>
+
+    <string name="tvStepDadosPessoais">Personal Data</string>
+    <string name="tvStepObjetivo">Objective</string>
+    <string name="tvStepHabilidadesCompetencias">My Skills</string>
+    <string name="tvStepExperienciaProfissional">Professional Experience</string>
+    <string name="tvStepEducacao">Education</string>
+    <string name="tvStepOutrasInformacoes">Other Info</string>
+
+    <string name="msgObjetivo">OBJECTIVE</string>
+    <string name="msgHabilidadesCompetencias">MY SKILLS</string>
+    <string name="msgHistoricoTrabalho">PROFESSIONAL EXPERIENCE</string>
+    <string name="msgFormacao">EDUCATION</string>
+    <string name="msgOutrasInformacoes">OTHER INFO</string>
+
+    <string name="msgHabilidades">Other Skills</string>
+    <string name="msgLinguas">Languages</string>
+    <string name="msgInteresses">Interests</string>
+    <string name="msgOutros">Others</string>
+
+    <string name="tvNome">Name: *</string>
+    <string name="tvSobrenome">Last Name: *</string>
+    <string name="tvEstadoCivil">Marital Status:</string>
+    <string name="tvDataNascimento">Date of Birth (mm/dd/yyyy): *</string>
+    <string name="tvEndereco">Address:</string>
+    <string name="tvCidade">City: *</string>
+    <string name="tvEstado">State: *</string>
+    <string name="tvCEP">Zip Code:</string>
+    <string name="tvEmail">E-mail: *</string>
+    <string name="tvTelefone">Phone: *</string>
+    <string name="btnSelecionarFoto">Select</string>
+    <string name="btnSelecionarFotoPRO">Select (PRO)</string>
+    <string name="btnRemoverFoto">Remove</string>
+    <string name="tvFoto">Photo:</string>
+    <string name="tvFotoPRO">Photo (PRO):</string>
+    <string name="tvPreencherDadosObrigatorios">- Please fill in all required fields to continue. The required fields are marked with a *.</string>
+
+    <string name="tvObjetivo">Goal: *</string>
+
+    <string name="cbGerencia">Management</string>
+    <string name="cbLideranca">Leadership</string>
+    <string name="cbVendas">Sales</string>
+    <string name="cbComunicacao">Communication</string>
+
+    <string name="tvCargo">Office:</string>
+    <string name="tvEmpresa">Company:</string>
+    <string name="tvDataInicio">Start Date (mm/yyyy):</string>
+    <string name="tvDataTermino">End Date (mm/yyyy):</string>
+    <string name="tvResponsabilidades">Responsibilities:</string>
+    <string name="tvExperienciaProfissional1">Professional Experience 1</string>
+    <string name="tvExperienciaProfissional2">Professional Experience 2</string>
+    <string name="tvExperienciaProfissional3">Professional Experience 3</string>
+    <string name="tvExperienciaProfissional4">Professional Experience 4</string>
+    <string name="tvExperienciaProfissional3PRO">Professional Experience 3 (PRO)</string>
+    <string name="tvExperienciaProfissional4PRO">Professional Experience 4 (PRO)</string>
+
+    <string name="msgTrabalhoAtual">Current</string>
+
+    <string name="tvGrau">Degree/Title:</string>
+    <string name="cbCursando">Studying</string>
+    <string name="tvNomeInstituicao">Name Institution:</string>
+    <string name="tvCidadeInstituicao">City:</string>
+    <string name="tvAno">Year of Formation (mm/yyyy):</string>
+    <string name="tvInformacoesRelevantes">Relevant Informations:</string>
+    <string name="tvEducacao1">Education 1</string>
+    <string name="tvEducacao2">Education 2</string>
+    <string name="tvEducacao3">Education 3</string>
+    <string name="tvEducacao4">Education 4</string>
+    <string name="tvEducacao3PRO">Education 3 (PRO)</string>
+    <string name="tvEducacao4PRO">Education 4 (PRO)</string>
+
+    <string name="tvHabilidades">Other Skills:</string>
+    <string name="tvLinguas">Languages:</string>
+    <string name="tvInteresses">Interests:</string>
+    <string name="tvOutros">Others:</string>
+
+    <string name="btnProximo">Next</string>
+    <string name="btnVoltar">Back</string>
+    <string name="btnFinalizar">Finish</string>
+
+    <string name="tvCarregandoAnuncio">Loading Ads ...</string>
+
+    <!-- Texts Hint EditText's -->
+    <string name="etObjetivoHint">Briefly describe your career objective, work in the company and summarize your differential.</string>
+
+    <string name="etGerenciaHint">Describe your skills and activities related to management.</string>
+    <string name="etLiderancaHint">Describe your leadership skills and activities.</string>
+    <string name="etVendasHint">Describe your skills and activities with sales process.</string>
+    <string name="etComunicacaoHint">Describe your communication and interaction skills and activities.</string>
+
+    <string name="etResponsabilidadesHint">Briefly describe your responsibilities and achievements in terms of impact and results in the company.</string>
+
+    <string name="etInformacoesRelevantesHint">If you would like, inform your averages, awards, honors or a summary of your academic work.</string>
+
+    <string name="msgmmyyyy">mm\/yyyy</string>
+    <string name="msgDataNascimentoHint">mm\/dd\/aaaa</string>
+
+    <string name="etHabilidadesHint">Excel Advanced, Social Media</string>
+    <string name="etLinguasHint">Spanish, Portuguese, German</string>
+    <string name="etInteressesHint">Music, Travel</string>
+    <string name="etOutrosHint">Text Revision and Correction</string>
+
+    <string name="tvVersaoPro"><b>PRO version</b>:\n\n- No ads;\n\n- Photo selection for the curriculum;\n\n- Addition of fields for Professional Experience and Education.</string>
+    <string name="btnComprarVersaoPro">Buy PRO Version</string>
+
+    <string name="vertical_form_stepper_form_continue">Continue</string>
+
+    <string name="action_apagar_dados">Erase Data</string>
+    <string name="action_versao_pro">PRO Version</string>
+    <string name="action_sobre">About</string>
+    <string name="action_mais_aplicativos">More Apps</string>
+    <string name="action_abrir_diretorio_arquivo">Open Folder with Curriculum</string>
+
+    <string name="nomeArquivo">CURRICULUM</string>
+
+    <string name="msgSim">Yes</string>
+    <string name="msgNao">No</string>
+
+    <string name="msgAssistirVideoPremiado">Watch Awarded Video</string>
+    <string name="msgComprarVersaoPRO">Buy PRO Version</string>
+
+    <string name="msgDataNascimento">Date of Birth:</string>
+    <string name="msgEndereco">Address:</string>
+    <string name="msgSelecionarDiretorio">Select the directory where you want to save the file by clicking the checkbox.</string>
+    <string name="msgArquivoSalvo">The file has been saved in the \"Documents\" folder.</string>
+    <string name="msgApagarDados">Do you want to delete your application data?</string>
+    <string name="msgDadosApagados">Data has been erased.</string>
+
+    <string name="msgNecessarioConcederPermissao">You must grant permission to create the curriculum.</string>
+
+    <string name="msgAbrirDiretorioCurriculo">Do you want to open the file directory?\n\nThe curriculum was saved in \"%1$s\".</string>
+    <string name="msgErroAbrirDiretorioCurriculo">Sorry, there was an error opening the folder.</string>
+
+    <string name="msgErroCriarPDFCurriculo">Sorry, there was an error creating your curriculum. Do you want to help the developer correct the problem by sending the error details via email?</string>
+    <string name="msgErroCompartilharCurriculo">Sorry, there was an error while sharing the file.</string>
+
+    <string name="msgFuncaoVersaoPRO">This is a feature of the PRO version of this application. To use it, watch an award-winning video or get the PRO version of the application?</string>
+    <string name="msgCompraEfetuada">Purchased successfully. Thank you very much for purchasing
+        the PRO version of the Application.</string>
+
+    <string name="msgEmail">E-mail:</string>
+    <string name="msgTelefone">Phone:</string>
+
+    <string name="msgCarregandoVideoPremiado">Loading Awarded Video ...</string>
+
+    <string name="msgSemConexaoInternet">No internet connection. Connect to the internet to use this feature.</string>
+
+    <string name="msgShare">Curriculum created by Easy Curriculum app.</string>
+
+    <string name="tvSobre">Version: 1.1.9
+        \n\nThanks for using the app.</string>
+</resources>

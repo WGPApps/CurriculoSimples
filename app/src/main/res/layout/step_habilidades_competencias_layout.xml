@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:layout_width="match_parent" android:layout_height="wrap_content">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:focusable="true"
+            android:focusableInTouchMode="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp">
+
+                <TextView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:shadowRadius="10.0"
+                    android:gravity="center"
+                    android:background="@drawable/circle"
+                    android:shadowColor="@android:color/white"
+                    android:textColor="@android:color/white"
+                    android:textSize="16dp"
+                    android:text="3" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:textSize="16dp"
+                    android:textStyle="bold"
+                    android:gravity="center_vertical"
+                    android:text="@string/tvStepHabilidadesCompetencias"/>
+
+            </LinearLayout>
+
+            <CheckBox
+                android:id="@+id/cbGerencia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/cbGerencia" />
+
+            <EditText
+                android:id="@+id/etGerencia"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:imeOptions="actionNext"
+                android:inputType="textCapSentences|textMultiLine"
+                android:visibility="gone"
+                android:selectAllOnFocus="true"
+                android:hint="@string/etGerenciaHint" />
+
+            <CheckBox
+                android:id="@+id/cbLideranca"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/cbLideranca" />
+
+            <EditText
+                android:id="@+id/etLideranca"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:imeOptions="actionNext"
+                android:inputType="textCapSentences|textMultiLine"
+                android:visibility="gone"
+                android:selectAllOnFocus="true"
+                android:hint="@string/etLiderancaHint"  />
+
+            <CheckBox
+                android:id="@+id/cbVendas"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/cbVendas" />
+
+            <EditText
+                android:id="@+id/etVendas"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:imeOptions="actionNext"
+                android:inputType="textCapSentences|textMultiLine"
+                android:visibility="gone"
+                android:selectAllOnFocus="true"
+                android:hint="@string/etVendasHint"  />
+
+            <CheckBox
+                android:id="@+id/cbComunicacao"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/cbComunicacao" />
+
+            <EditText
+                android:id="@+id/etComunicacao"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:imeOptions="actionNext"
+                android:inputType="textCapSentences|textMultiLine"
+                android:visibility="gone"
+                android:selectAllOnFocus="true"
+                android:hint="@string/etComunicacaoHint"  />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.curriculosimples.MainActivity">
+    <item
+        android:id="@+id/action_abrir_diretorio_arquivo"
+        android:orderInCategory="100"
+        android:title="@string/action_apagar_dados"
+        android:icon="@drawable/folder"
+        app:showAsAction="ifRoom" />
+</menu>

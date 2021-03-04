@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Easy Curriculum - Create your Resume</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_home_screen">Easy Curriculum - Create your Resume</string>
+    <string name="title_activity_visualizar_curriculo">Visualizar Currículo</string>
+    <string name="title_activity_comprar_versao_pro">Versão PRO</string>
+    <string name="title_activity_sobre">Sobre</string>
+    <string name="title_activity_aplicativos">Mais Aplicativos</string>
+
+    <string-array name="steps_array">
+        <item>Dados Pessoais</item>
+        <item>Objetivo</item>
+        <item>Habilidades e Competências</item>
+        <item>Experiência Profissional</item>
+        <item>Educação</item>
+        <item>Outras Informações</item>
+    </string-array>
+
+    <string name="tvStepDadosPessoais">Dados Pessoais</string>
+    <string name="tvStepObjetivo">Objetivo</string>
+    <string name="tvStepHabilidadesCompetencias">Habilidades e Competências</string>
+    <string name="tvStepExperienciaProfissional">Experiência Profissional</string>
+    <string name="tvStepEducacao">Educação</string>
+    <string name="tvStepOutrasInformacoes">Outras Informações</string>
+
+    <string name="msgObjetivo">OBJETIVO</string>
+    <string name="msgHabilidadesCompetencias">HABILIDADES E COMPETÊNCIAS</string>
+    <string name="msgHistoricoTrabalho">EXPERIÊNCIA PROFISSIONAL</string>
+    <string name="msgFormacao">EDUCAÇÃO</string>
+    <string name="msgOutrasInformacoes">OUTRAS INFORMAÇÕES</string>
+
+    <string name="msgHabilidades">Outras Habilidades</string>
+    <string name="msgLinguas">Línguas</string>
+    <string name="msgInteresses">Interesses</string>
+    <string name="msgOutros">Outros</string>
+
+    <string name="tvNome">Nome: *</string>
+    <string name="tvSobrenome">Sobrenome: *</string>
+    <string name="tvEstadoCivil">Estado Civil:</string>
+    <string name="tvDataNascimento">Data de Nascimento (dd/mm/aaaa): *</string>
+    <string name="tvEndereco">Endereço:</string>
+    <string name="tvCidade">Cidade: *</string>
+    <string name="tvEstado">Estado: *</string>
+    <string name="tvCEP">CEP:</string>
+    <string name="tvEmail">E-mail: *</string>
+    <string name="tvTelefone">Telefone: *</string>
+    <string name="btnSelecionarFoto">Selecionar</string>
+    <string name="btnSelecionarFotoPRO">Selecionar (PRO)</string>
+    <string name="btnRemoverFoto">Remover</string>
+    <string name="tvFoto">Foto:</string>
+    <string name="tvFotoPRO">Foto (PRO):</string>
+    <string name="tvPreencherDadosObrigatorios">- Por favor preencha todos os campos obrigatórios para continuar. Os campos obrigatórios estão marcados com um *.</string>
+
+    <string name="tvObjetivo">Objetivo: *</string>
+
+    <string name="cbGerencia">Gerência</string>
+    <string name="cbLideranca">Liderança</string>
+    <string name="cbVendas">Vendas</string>
+    <string name="cbComunicacao">Comunicação</string>
+
+    <string name="tvCargo">Cargo:</string>
+    <string name="tvEmpresa">Empresa:</string>
+    <string name="tvDataInicio">Data de Início (mm/aaaa):</string>
+    <string name="tvDataTermino">Data de Término (mm/aaaa):</string>
+    <string name="tvResponsabilidades">Responsabilidades:</string>
+    <string name="tvExperienciaProfissional1">Experiência Profissional 1</string>
+    <string name="tvExperienciaProfissional2">Experiência Profissional 2</string>
+    <string name="tvExperienciaProfissional3">Experiência Profissional 3</string>
+    <string name="tvExperienciaProfissional4">Experiência Profissional 4</string>
+    <string name="tvExperienciaProfissional3PRO">Experiência Profissional 3 (PRO)</string>
+    <string name="tvExperienciaProfissional4PRO">Experiência Profissional 4 (PRO)</string>
+
+    <string name="msgTrabalhoAtual">Atual</string>
+
+    <string name="tvGrau">Grau/Título:</string>
+    <string name="cbCursando">Cursando</string>
+    <string name="tvNomeInstituicao">Escola/Instituição:</string>
+    <string name="tvCidadeInstituicao">Cidade:</string>
+    <string name="tvAno">Ano de Formação (mm/aaaa):</string>
+    <string name="tvInformacoesRelevantes">Informações Relevantes:</string>
+    <string name="tvEducacao1">Educação 1</string>
+    <string name="tvEducacao2">Educação 2</string>
+    <string name="tvEducacao3">Educação 3</string>
+    <string name="tvEducacao4">Educação 4</string>
+    <string name="tvEducacao3PRO">Educação 3 (PRO)</string>
+    <string name="tvEducacao4PRO">Educação 4 (PRO)</string>
+
+    <string name="tvHabilidades">Outras Habilidades:</string>
+    <string name="tvLinguas">Línguas:</string>
+    <string name="tvInteresses">Interesses:</string>
+    <string name="tvOutros">Outros:</string>
+
+    <string name="btnProximo">Próximo</string>
+    <string name="btnVoltar">Voltar</string>
+    <string name="btnFinalizar">Finalizar</string>
+
+    <string name="tvCarregandoAnuncio">Carregando Anúncio ...</string>
+
+    <!-- Texts Hint EditText's -->
+    <string name="etObjetivoHint">Descreva brevemente o seu objetivo de carreira, atuação na empresa e resuma seu diferencial.</string>
+
+    <string name="etGerenciaHint">Descreva suas habilidades e atividades relacionadas a gerência.</string>
+    <string name="etLiderancaHint">Descreva suas habilidades e atividades envolvendo liderança.</string>
+    <string name="etVendasHint">Descreva suas habilidades e atividades com processo de vendas.</string>
+    <string name="etComunicacaoHint">Descreva suas habilidades e atividades de comunicação e interação.</string>
+
+    <string name="etResponsabilidadesHint">Descreva brevemente suas responsabilidades e realizações em termo de impacto e resultados na empresa.</string>
+
+    <string name="etInformacoesRelevantesHint">Caso queira, informe suas médias, prêmios, homenagens ou um resumo sobre seus trabalhos acadêmicos.</string>
+
+    <string name="msgmmyyyy">mm\/aaaa</string>
+    <string name="msgDataNascimentoHint">dd\/mm\/aaaa</string>
+
+    <string name="etHabilidadesHint">Excel Avançado, Mídia Social</string>
+    <string name="etLinguasHint">Inglês, Espanhol, Alemão</string>
+    <string name="etInteressesHint">Música, Viagem</string>
+    <string name="etOutrosHint">Revisão e Correção de Texto</string>
+
+    <string name="tvVersaoPro"><b>Versão PRO</b>:\n\n- Sem anúncios;\n\n- Seleção de foto para o currículo;\n\n- Adição de campos para Experiência Profissional e Educação.</string>
+    <string name="btnComprarVersaoPro">Comprar Versão PRO</string>
+
+    <string name="vertical_form_stepper_form_continue">Continuar</string>
+
+    <string name="action_apagar_dados">Limpar Dados</string>
+    <string name="action_versao_pro">Versão PRO</string>
+    <string name="action_sobre">Sobre</string>
+    <string name="action_mais_aplicativos">Mais Aplicativos</string>
+    <string name="action_abrir_diretorio_arquivo">Abrir Diretório com o Currículo</string>
+
+    <string name="nomeArquivo">CURRICULO</string>
+
+    <string name="msgSim">Sim</string>
+    <string name="msgNao">Não</string>
+
+    <string name="msgAssistirVideoPremiado">Assistir Vídeo Premiado</string>
+    <string name="msgComprarVersaoPRO">Comprar Versão PRO</string>
+
+    <string name="msgDataNascimento">Data de Nascimento:</string>
+    <string name="msgEndereco">Endereço:</string>
+    <string name="msgSelecionarDiretorio">Selecione o diretório em que você deseja salvar o arquivo, clicando na caixa de seleção (CheckBox).</string>
+    <string name="msgArquivoSalvo">O arquivo foi salvo na pasta \"Documents\".</string>
+    <string name="msgApagarDados">Você deseja apagar seus dados do aplicativo?</string>
+    <string name="msgDadosApagados">Os dados foram apagados.</string>
+
+    <string name="msgNecessarioConcederPermissao">É necessário conceder a permissão para criar o currículo.</string>
+
+    <string name="msgAbrirDiretorioCurriculo">Você deseja abrir o diretório do arquivo?\n\nO currículo foi salvo em \"%1$s\".</string>
+    <string name="msgErroAbrirDiretorioCurriculo">Desculpe, Houve um erro ao abrir o diretório.</string>
+
+    <string name="msgErroCriarPDFCurriculo">Desculpe, houve um erro ao criar o currículo. Você deseja ajudar o desenvolvedor a corrigir o problema enviando os detalhes do erro por e-mail?</string>
+    <string name="msgErroCompartilharCurriculo">Desculpe, houve um erro ao compartilhar o arquivo.</string>
+
+    <string name="msgFuncaoVersaoPRO">Este é um recurso da versão PRO deste aplicativo. Para utilizá-lo assista a um vídeo premiado ou adquira a versão PRO do aplicativo?</string>
+    <string name="msgCompraEfetuada">A compra foi feita com sucesso. Muito obrigado por comprar a versão PRO do aplicativo.</string>
+
+    <string name="msgEmail">E-mail:</string>
+    <string name="msgTelefone">Telefone:</string>
+
+    <string name="msgCarregandoVideoPremiado">Carregando Vídeo Premiado ...</string>
+
+    <string name="msgSemConexaoInternet">Sem conexão com a internet. Conecte-se a internet para usar esta funcionalidade.</string>
+
+    <string name="msgShare">Currículo criado pelo aplicativo Easy Curriculum.</string>
+
+    <string name="tvSobre">Versão: 1.1.9
+        \n\nObrigado por utilizar o aplicativo.</string>
+</resources>
